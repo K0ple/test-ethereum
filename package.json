@@ -1,0 +1,25 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "Testing a simple blockchain contract in ethereum wriiten in solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K0ple/test-ethereum.git"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "solidity",
+    "node.js"
+  ],
+  "author": "Satyaki Suman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K0ple/test-ethereum/issues"
+  },
+  "homepage": "https://github.com/K0ple/test-ethereum#readme"
+}
